@@ -3,9 +3,9 @@
 I'm a passionate data practitioner with a focus on **NLP**, **Deep Learning**, and **Machine Learning**.<br> 
 I'm excited to share my journey and accomplishments in the world of AI and machine learning.
 
-## 🔥 Recent Achievement: Promotion to Natural Language Processing Engineer
+## 🔥 Recent Achievement: Promotion to NLP Engineer
 
-🚀 I recently advanced in my career to the role of **Natural Language Processing Engineer** after completing my training as a *Python and Machine Learning Programmer Trainee*. This milestone marks a significant step in my professional journey, and I'm eager to continue pushing the boundaries in the field of AI and Data Science.
+🚀 I recently advanced in my career to the role of **Natural Language Processing (NLP) Engineer** after completing my training as a *Python and Machine Learning Programmer Trainee*. This milestone marks a significant step in my professional journey, and I'm eager to continue pushing the boundaries in the field of AI and Data Science.
 
 ## 👨‍💻 What I Do
 
