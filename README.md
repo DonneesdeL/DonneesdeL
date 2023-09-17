@@ -10,8 +10,8 @@ I'm excited to share my journey and accomplishments in the world of AI and machi
 ## 👨‍💻 What I Do
 
 - 🤖 I specialize in Natural Language Processing (NLP), Deep Learning, and Machine Learning.
-- 📊 I enjoy transforming raw data into valuable insights and building intelligent solutions.
-- 💡 I'm always seeking opportunities to apply AI to real-world problems and make an impact.
+- 📊 I enjoy taking raw data and turning it into actionable insights and intelligent solutions through applied analytics.
+- 💡 I always seek opportunities to apply AI to real-world problems and make an impact.
 
 ## 📚 Completed Courses and Certificates
 
