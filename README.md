@@ -42,7 +42,7 @@ I'm continuously striving to:
 
 I'm always open to connecting with fellow professionals, researchers, and enthusiasts. Feel free to reach out:
 
-- 📧 Email: [leahgotladera@gmail.com]
+- 📧 Email: leahgotladera@gmail.com
 - 💼 LinkedIn: [www.linkedin.com/in/aileah-gotladera]
 
 ## 😎 Thanks for Visiting
