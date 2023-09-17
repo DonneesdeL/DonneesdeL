@@ -5,7 +5,7 @@ I'm excited to share my journey and accomplishments in the world of AI and machi
 
 ## 🔥 Recent Achievement: Promotion to Natural Language Processing Engineer
 
-🚀 I recently advanced in my career to the role of **Natural Language Processing Engineer** after completing my training as a *Python and Machine Learning Programmer Trainee*. This milestone marks a significant step in my professional journey, and I'm eager to continue pushing the boundaries of AI and data science.
+🚀 I recently advanced in my career to the role of **Natural Language Processing Engineer** after completing my training as a *Python and Machine Learning Programmer Trainee*. This milestone marks a significant step in my professional journey, and I'm eager to continue pushing the boundaries in the field of AI and Data Science.
 
 ## 👨‍💻 What I Do
 
