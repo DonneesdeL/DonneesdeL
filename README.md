@@ -15,7 +15,7 @@ I'm excited to share my journey and accomplishments in the world of AI and machi
 
 ## 📚 Completed Courses and Certificates
 
-I'm actively engaged in continuous learning and continuously expand my skills by taking various relevant courses and earning certifications, including:
+I'm actively engaged in continuous learning and regularyly expand my skills by taking various relevant courses and earning certifications, including:
 
 - [IBM DATA Engineering Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/SAS8LSXRA68G) - In-depth knowledge in data engineering.
 - [Applied Data Science II: Machine Learning & Statistical Analysis (WorldQuant University)](https://www.credly.com/badges/9b343b38-015c-468a-9b92-4297e170730a/linked_in_profile) - Mastery in machine learning and statistical analysis.
