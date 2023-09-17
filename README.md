@@ -1,6 +1,6 @@
 # Hi there, I'm L 👋
 
-I'm a passionate data practitioner with a focus on NLP, Deep Learning, and Machine Learning, located in the Philippines.<br> 
+I'm a passionate data practitioner with a focus on **NLP, Deep Learning, and Machine Learning**.<br> 
 I'm excited to share my journey and accomplishments in the world of AI and machine learning.
 
 ## 🔥 Recent Achievement: Promotion to Natural Language Processing Engineer
@@ -42,8 +42,8 @@ I'm continuously striving to:
 
 I'm always open to connecting with fellow professionals, researchers, and enthusiasts. Feel free to reach out:
 
-- 📧 Email: leahgotladera@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/aileah-gotladera]
+- 📧 Email: <u>leahgotladera@gmail.com</u>
+- 💼 LinkedIn: www.linkedin.com/in/aileah-gotladera
 
 ## 😎 Thanks for Visiting
 
