@@ -5,7 +5,7 @@ I'm excited to share my journey and accomplishments in the world of AI and machi
 
 ## 🔥 Recent Achievement: Promotion to Natural Language Processing Engineer
 
-🚀 I recently advanced in my career to the role of [Natural Language Processing Engineer] after completing my training as a Python and Machine Learning Programmer Trainee. This milestone marks a significant step in my professional journey, and I'm eager to continue pushing the boundaries of AI and data science.
+🚀 I recently advanced in my career to the role of **Natural Language Processing Engineer** after completing my training as a *Python and Machine Learning Programmer Trainee*. This milestone marks a significant step in my professional journey, and I'm eager to continue pushing the boundaries of AI and data science.
 
 ## 👨‍💻 What I Do
 
@@ -15,7 +15,7 @@ I'm excited to share my journey and accomplishments in the world of AI and machi
 
 ## 📚 Completed Courses and Certificates
 
-I've invested in continuous learning and have completed several relevant courses and certificates, including:
+I'm actively engaged in continuous learning and continuously expand my skills by taking various relevant courses and earning certifications, including:
 
 - [IBM DATA Engineering Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/SAS8LSXRA68G) - In-depth knowledge in data engineering.
 - [Applied Data Science II: Machine Learning & Statistical Analysis (WorldQuant University)](https://www.credly.com/badges/9b343b38-015c-468a-9b92-4297e170730a/linked_in_profile) - Mastery in machine learning and statistical analysis.
@@ -27,7 +27,7 @@ I believe that learning is a lifelong journey, and I'm committed to staying upda
 
 ## 🌟 Featured Projects (⚠️Under Construction⚠️)
 
-Currently, this section is under construction as I'm in the process of organizing and improving my files and code. 
+Currently, this section is under construction as I'm in the process of organizing and improving my files and code.<br> 
 Stay tuned for exciting projects coming soon!
 
 ## 🚀 Goals
@@ -47,7 +47,7 @@ I'm always open to connecting with fellow professionals, researchers, and enthus
 
 ## 😎 Thanks for Visiting
 
-Thank you for stopping by my GitHub profile. Let's collaborate, learn, and make AI-driven innovations together. 🚀
+**Thank you for stopping by my GitHub profile. Let's collaborate, learn, and make AI-driven innovations together! 💻🚀🔭**
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername)](https://github.com/YourGitHubUsername)
 
