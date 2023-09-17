@@ -1,6 +1,6 @@
 # Hi there, I'm L 👋
 
-I'm a passionate data practitioner with a focus on **NLP, Deep Learning, and Machine Learning**.<br> 
+I'm a passionate data practitioner with a focus on **NLP**, **Deep Learning**, and **Machine Learning**.<br> 
 I'm excited to share my journey and accomplishments in the world of AI and machine learning.
 
 ## 🔥 Recent Achievement: Promotion to Natural Language Processing Engineer
