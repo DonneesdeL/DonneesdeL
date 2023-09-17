@@ -1,8 +1,8 @@
-# Hi there, I'm [L] 👋
+# Hi there, I'm L 👋
 
 I'm a passionate data practitioner with a focus on NLP, Deep Learning, and Machine Learning, located in the [Philippines]. I'm excited to share my journey and accomplishments in the world of AI and machine learning.
 
-## 🔥 Recent Achievement: Promotion to [Natural Language Processing Engineer]
+## 🔥 Recent Achievement: Promotion to Natural Language Processing Engineer
 
 🚀 I recently advanced in my career to the role of [Natural Language Processing Engineer] after completing my training as a Python and Machine Learning Programmer Trainee. This milestone marks a significant step in my professional journey, and I'm eager to continue pushing the boundaries of AI and data science.
 
@@ -26,13 +26,14 @@ I believe that learning is a lifelong journey, and I'm committed to staying upda
 
 ## 🌟 Featured Projects (⚠️Under Construction⚠️)
 
-Currently, this section is under construction as I'm in the process of organizing and improving my files and code. Stay tuned for exciting projects coming soon!
+Currently, this section is under construction as I'm in the process of organizing and improving my files and code. 
+Stay tuned for exciting projects coming soon!
 
 ## 🚀 Goals
 
 I'm continuously striving to:
 
-- 📚 Deepen my AI and data science knowledge through continuous learning and 
+- 📚 Deepen my AI and data science knowledge through continuous learning.
 - 🌐 Collaborate on cutting-edge projects, putting my knowledge to practice.
 - 🏙 Make a positive impact on the AI community and beyond.
 
