@@ -1,15 +1,17 @@
 # Hi there, I'm L 👋
+A driven data professional with a passion for data exploration and innovation, now transitioning focus on **Bank/Financial Analytics**. Equipped with technical skills in the field of **AI, Analytics and Data Science**, I'm dedicated to deriving impactful insights and leveraging data to drive informed decision-making and strategic optimization. 
+Poised to make meaningful contributions at the intersection of technology and finance. <br>
 
-I'm a passionate data practitioner with a focus on **NLP**, **Deep Learning**, and **Machine Learning**.<br> 
-I'm excited to share my journey and accomplishments in the world of AI and machine learning.
+I'm excited to share my journey and accomplishments in the world of AI, Data Science and Analytics!
 
-## 🔥 Recent Achievement: Promotion to NLP Engineer
+## 🔥 Recent Achievement: Transition to Campaigns Officer in Banking Data Science & Analytics
 
-🚀 I recently advanced in my career to the role of **Natural Language Processing (NLP) Engineer** after completing my training as a *Python and Machine Learning Programmer Trainee*. This milestone marks a significant step in my professional journey, and I'm eager to continue pushing the boundaries in the field of AI and Data Science.
+🚀 Thrilled to announce my new role as a **Campaigns Officer** within the Data Science and Analytics Unit of CIMB Bank. This transition marks a significant milestone in my career journey.<br>
+ I look forward to contributing my skills and expertise to drive impactful campaigns leveraging ML-DL, Data Science and Analytics.
 
 ## 👨‍💻 What I Do
 
-- 🤖 I specialize in Natural Language Processing (NLP), Deep Learning, and Machine Learning.
+- 🤖 Equipped with ML-DL, Data Science and Analytical skills
 - 📊 I enjoy taking raw data and turning it into actionable insights and intelligent solutions through applied analytics.
 - 💡 I always seek opportunities to apply AI to real-world problems and make an impact.
 
@@ -32,11 +34,11 @@ Currently, this section is **under construction** as I'm in the process of organ
 
 ## 🚀 Goals
 
-I'm continuously striving to:
+I'm committed to:
 
-- 📚 Deepen my AI and data science knowledge through continuous learning.
-- 🌐 Collaborate on cutting-edge projects, putting my knowledge to practice.
-- 🏙 Make a positive impact on the AI community and beyond.
+- 📚 Continuously deepening my expertise in AI and Data Science through ongoing learning and practical application.
+- 🌐 Collaborating on cutting-edge projects to apply and refine my skills.
+- 🏙 Making a positive impact on the AI community and beyond, driving progress and innovation.
 
 ## 📫 Let's Connect
 
@@ -47,7 +49,7 @@ I'm always open to connecting with fellow professionals, researchers, and enthus
 
 ## 😎 Thanks for Visiting
 
-**Thank you for stopping by my GitHub profile. Let's collaborate, learn, and make AI-driven innovations together! 💻🚀🔭**
+**Thank you for stopping by my GitHub profile. Let's collaborate, learn, and make data-driven solutions & innovations together! 💻🚀🔭**
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername)](https://github.com/YourGitHubUsername)
 
