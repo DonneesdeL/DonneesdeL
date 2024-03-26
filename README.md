@@ -2,12 +2,12 @@
 A driven data professional with a passion for data exploration and innovation, now transitioning focus on **Bank/Financial Analytics**. Equipped with technical skills in the field of **AI, Analytics and Data Science**, I'm dedicated to deriving impactful insights and leveraging data to drive informed decision-making and strategic optimization. 
 Poised to make meaningful contributions at the intersection of technology and finance. <br>
 
-I'm excited to share my journey and accomplishments in the world of AI, Data Science and Analytics!
+I'm excited to share my journey and accomplishments as a Data Professional.
 
-## 🔥 Recent Achievement: Transition to Campaigns Officer in Banking Data Science & Analytics
+## 🔥 Recent Achievement: Transition to Campaigns Officer in Banking - Data Science & Analytics
 
-🚀 Thrilled to announce my new role as a **Campaigns Officer** within the Data Science and Analytics Unit of CIMB Bank. This transition marks a significant milestone in my career journey.<br>
- I look forward to contributing my skills and expertise to drive impactful campaigns leveraging ML-DL, Data Science and Analytics.
+🚀 Thrilled to join CIMB Bank's Data Science and Analytics Unit as a **Campaigns Officer**, kickstarting my journey to specialize in bank analytics.<br>
+This role aligns with my vision of developing deep expertise in leveraging Data Science, Machine Learning, and Analytics for the Banking/Financial industry. I'm committed to mastering this domain and contributing my skills to drive impactful solutions.
 
 ## 👨‍💻 What I Do
 
@@ -29,7 +29,7 @@ I believe that learning is a lifelong journey, and I'm committed to staying upda
 
 ## 🌟 Featured Projects (⚠️Under Construction⚠️)
 
-Currently, this section is **under construction** as I'm in the process of organizing and improving my files and code.<br> 
+Currently, this section is **under construction** as I'm in the process of organizing and improving my files and codes.<br> 
 ***Stay tuned for exciting projects coming soon!***
 
 ## 🚀 Goals
