@@ -2,7 +2,9 @@
 A driven data professional with a passion for data exploration and innovation, now transitioning focus on **Bank/Financial Analytics**. Equipped with technical skills in the field of **AI, Analytics and Data Science**, I'm dedicated to deriving impactful insights and leveraging data to drive informed decision-making and strategic optimization. 
 Poised to make meaningful contributions at the intersection of technology and finance. <br>
 
-I'm excited to share my journey and accomplishments as a Data Professional.
+I'm excited to share my journey and accomplishments in the filed of AI and Data Science.
+
+[🚧 GitHub still under construction 🚧]
 
 ## 🔥 Recent Achievement: Transition to Campaigns Officer in Banking - Data Science & Analytics
 
